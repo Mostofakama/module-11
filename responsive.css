@@ -40,6 +40,10 @@
 }
 
 @media (max-width:404px) {
+    body {
+        display: none;
+    }
+
     .text-area {
         width: 325px;
 
