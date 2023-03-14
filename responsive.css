@@ -1,0 +1,64 @@
+@media (max-width:888px) {
+    .section-area {
+        display: block;
+        padding: 100px 0;
+        align-items: center;
+        background-image: linear-gradient(#f0f2f5, #f0f2f5);
+        margin: 30px auto;
+    }
+
+
+    .text-area {
+        width: 400px;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    .text-area h2 {
+        width: 350px;
+
+    }
+
+    .form-area {
+
+        margin: auto;
+    }
+
+    .log-in-area {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .log-in-area p {
+        padding-top: 20px;
+    }
+
+}
+
+@media (max-width:404px) {
+    .text-area {
+        width: 325px;
+
+    }
+
+    .form-area {
+
+        width: 350px;
+    }
+
+    .form-area input {
+
+        width: 290px;
+    }
+
+    button {
+
+        width: 327px;
+    }
+
+    .form-area hr {
+
+        width: 92%;
+    }
+}
