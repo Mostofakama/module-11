@@ -34,6 +34,9 @@
         padding-top: 20px;
     }
 
+    .section-area {
+        margin: 0px auto;
+    }
 }
 
 @media (max-width:404px) {
